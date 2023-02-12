@@ -1,2 +1,2 @@
 # Calculadora
-Creamos una calculadora con JavasScript.
+Creamos una calculadora con JavasScript, Html y CSS
